@@ -1,0 +1,222 @@
+{
+  "district": "Nagpur",
+  "state": "Maharashtra",
+  "referencePoint": {
+    "name": "Zero Mile Stone, Nagpur",
+    "latitude": 21.1458,
+    "longitude": 79.0882
+  },
+  "districtBoundingBox": {
+    "minLat": 20.50,
+    "maxLat": 21.75,
+    "minLon": 78.50,
+    "maxLon": 79.80
+  },
+  "zones": [
+    {
+      "id": "centre",
+      "label": "Central Nagpur",
+      "shortLabel": "Centre",
+      "description": "Administrative, heritage, legal & commercial nucleus centered around Zero Mile, Civil Lines & Sitabuldi.",
+      "bounds": {
+        "minLat": 21.130,
+        "maxLat": 21.170,
+        "minLon": 79.065,
+        "maxLon": 79.108
+      },
+      "keyLandmarks": [
+        "Zero Mile Stone",
+        "Nagpur Junction Railway Station",
+        "Sitabuldi Fort & Metro Interchange",
+        "High Court of Bombay (Nagpur Bench)",
+        "Vidhan Bhavan",
+        "Kasturchand Park"
+      ],
+      "pincodes": ["440001", "440002", "440010", "440012", "440018"],
+      "localities": [
+        "sitabuldi",
+        "civil lines",
+        "ramdaspeth",
+        "dhantoli",
+        "mahal",
+        "gandhibagh",
+        "itwari",
+        "sadar",
+        "mohan nagar",
+        "chaoni",
+        "cotton market",
+        "hansapuri",
+        "reshimbagh",
+        "tilak nagar",
+        "ganjakhet"
+      ]
+    },
+    {
+      "id": "east",
+      "label": "East Nagpur",
+      "shortLabel": "East",
+      "description": "Logistics hub, commercial trading corridors & established residential townships along Central Avenue & Bhandara Road.",
+      "bounds": {
+        "minLat": 21.110,
+        "maxLat": 21.190,
+        "minLon": 79.108,
+        "maxLon": 79.250
+      },
+      "keyLandmarks": [
+        "Central Avenue Commercial Hub",
+        "Kalamna Agricultural Market (APMC)",
+        "Prajapati Nagar Metro Terminal",
+        "Mini Mata Nagar",
+        "Pardi Flyover Corridor"
+      ],
+      "pincodes": ["440008", "440009", "440024", "440035", "441104"],
+      "localities": [
+        "wardhaman nagar",
+        "surya nagar",
+        "nandanvan",
+        "lakadganj",
+        "kalamna",
+        "pardi",
+        "shanti nagar",
+        "bharatwada",
+        "bagadganj",
+        "kapsi",
+        "bhandewadi",
+        "deshpande layout",
+        "hiwari nagar",
+        "garoba maidan",
+        "satranjipura",
+        "tarodi"
+      ]
+    },
+    {
+      "id": "north",
+      "label": "North Nagpur",
+      "shortLabel": "North",
+      "description": "Energetic residential hubs, healthcare corridors & connectivity to Kamptee, Koradi & ring road logistics.",
+      "bounds": {
+        "minLat": 21.170,
+        "maxLat": 21.350,
+        "minLon": 79.030,
+        "maxLon": 79.200
+      },
+      "keyLandmarks": [
+        "Koradi Thermal Power Station & Koradi Temple",
+        "Mankapur Indoor Sports Stadium",
+        "Automotive Square Metro Station",
+        "Kamptee Cantonment",
+        "Dr. Babasaheb Ambedkar Hospital, Kamptee Road"
+      ],
+      "pincodes": ["440014", "440026", "440030", "441111"],
+      "localities": [
+        "jaripatka",
+        "koradi",
+        "koradi road",
+        "mankapur",
+        "bezonbagh",
+        "zingabai takli",
+        "godhani",
+        "indora",
+        "nara",
+        "nari",
+        "pachpaoli",
+        "kamptee",
+        "kamptee road",
+        "uppalwadi",
+        "kapil nagar",
+        "bhankheda",
+        "binaki"
+      ]
+    },
+    {
+      "id": "west",
+      "label": "West Nagpur",
+      "shortLabel": "West",
+      "description": "Premier educational, lush green institutional & high-value residential sector embracing Ambazari, Futala & Seminary Hills.",
+      "bounds": {
+        "minLat": 21.110,
+        "maxLat": 21.200,
+        "minLon": 78.950,
+        "maxLon": 79.065
+      },
+      "keyLandmarks": [
+        "Futala Lakefront & Heritage Promenade",
+        "Ambazari Lake & Biodiversity Park",
+        "VNIT (Visvesvaraya National Institute of Technology)",
+        "Seminary Hills Forest Reserve & Botanical Gardens",
+        "Rashtrasant Tukadoji Maharaj Nagpur University Campus",
+        "LAD College & Law College Campus"
+      ],
+      "pincodes": ["440006", "440010", "440013", "440023", "440033"],
+      "localities": [
+        "dharampeth",
+        "shivaji nagar",
+        "gokulpeth",
+        "ram nagar",
+        "ravinagar",
+        "law college road",
+        "seminary hills",
+        "ambazari",
+        "shankar nagar",
+        "vayusena nagar",
+        "surendra nagar",
+        "friends colony",
+        "borgaon",
+        "gittikhadan",
+        "katol road",
+        "dabha",
+        "wadi",
+        "hingna road",
+        "bajaj nagar",
+        "pandhrabodi"
+      ]
+    },
+    {
+      "id": "south",
+      "label": "South Nagpur",
+      "shortLabel": "South",
+      "description": "Rapid growth corridor driven by Wardha Road Metro, International Airport, MIHAN SEZ, AIIMS & IIM Nagpur.",
+      "bounds": {
+        "minLat": 20.850,
+        "maxLat": 21.130,
+        "minLon": 79.000,
+        "maxLon": 79.160
+      },
+      "keyLandmarks": [
+        "Dr. Babasaheb Ambedkar International Airport",
+        "MIHAN Special Economic Zone (SEZ)",
+        "AIIMS Nagpur & IIM Nagpur Campus",
+        "Metro Orange Line (Wardha Road Expressway)",
+        "Butibori Industrial Area",
+        "Chhatrapati Square"
+      ],
+      "pincodes": ["440015", "440025", "440027", "440034", "440037", "441108"],
+      "localities": [
+        "wardha road",
+        "manish nagar",
+        "somalwada",
+        "besa",
+        "ghogli",
+        "pipla",
+        "beltarodi",
+        "mihan",
+        "butibori",
+        "khapri",
+        "chhatrapati nagar",
+        "pratap nagar",
+        "khamla",
+        "jaiprakash nagar",
+        "ujjwal nagar",
+        "trimurti nagar",
+        "subhash nagar",
+        "swavalambi nagar",
+        "manewada",
+        "ayodhya nagar",
+        "dighori",
+        "hudkeshwar",
+        "bhamti",
+        "parsodi"
+      ]
+    }
+  ]
+}

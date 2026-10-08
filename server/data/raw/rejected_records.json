@@ -1,0 +1,203 @@
+[
+  {
+    "listing_id": "MIRROR-NGP-001",
+    "locality": "Wardha Road",
+    "property_type": "Residential Plots",
+    "price_inr": "18150000000",
+    "listing_agent": "Nikhilkumar Bisen",
+    "rejection_reason": "Outlier price anomaly: ₹1,815 Crore for a residential plot"
+  },
+  {
+    "listing_id": "MIRROR-NGP-005",
+    "locality": "Chhatrapati Square",
+    "property_type": "Flats",
+    "bhk": "3.0",
+    "price_inr": "1",
+    "listing_agent": "11 Square Feet",
+    "rejection_reason": "Token placeholder price anomaly: ₹1 for 3 BHK flat"
+  },
+  {
+    "listing_id": "MIRROR-NGP-006",
+    "locality": "Kothewada",
+    "property_type": "Residential Plots",
+    "price_inr": "98350000000",
+    "listing_agent": "MAULI INFRA NAGPUR",
+    "rejection_reason": "Outlier price anomaly: ₹9,835 Crore for residential plot"
+  },
+  {
+    "listing_id": "MIRROR-NGP-008",
+    "locality": "Godhani",
+    "property_type": "Residential Plots",
+    "price_inr": "50309800000",
+    "listing_agent": "Rajeev ranjan",
+    "rejection_reason": "Outlier price anomaly: ₹5,030.98 Crore for residential plot"
+  },
+  {
+    "listing_id": "MIRROR-NGP-011",
+    "locality": "Banwadi",
+    "property_type": "Agricultural Land",
+    "price_inr": "1",
+    "listing_agent": "Oxygreen agrotech pvt Ltd",
+    "rejection_reason": "Token placeholder price anomaly: ₹1"
+  },
+  {
+    "listing_id": "MIRROR-NGP-019",
+    "locality": "Ramtek",
+    "property_type": "Agricultural Land",
+    "price_inr": "505000000",
+    "listing_agent": "Roshan Rahate",
+    "rejection_reason": "Extreme outlier price anomaly: ₹50.5 Crore for agricultural land in Ramtek"
+  },
+  {
+    "listing_id": "MIRROR-NGP-022",
+    "locality": "Lava",
+    "property_type": "Residential Plots",
+    "price_inr": "28233300000",
+    "listing_agent": "P M REALTORS",
+    "rejection_reason": "Outlier price anomaly: ₹2,823.33 Crore for residential plot in Lava"
+  },
+  {
+    "listing_id": "MIRROR-NGP-023",
+    "locality": "Katol Road",
+    "property_type": "Commercial Land",
+    "price_inr": "2",
+    "listing_agent": "Bhumesh Realators",
+    "rejection_reason": "Token placeholder price anomaly: ₹2 for commercial land"
+  },
+  {
+    "listing_id": "MIRROR-NGP-025",
+    "locality": "Kamthi Road",
+    "property_type": "House",
+    "bhk": "4.0",
+    "price_inr": "90529400000",
+    "listing_agent": "Anand Real Estate",
+    "rejection_reason": "Outlier price anomaly: ₹9,052.94 Crore for 4 BHK House"
+  },
+  {
+    "listing_id": "MIRROR-NGP-026",
+    "locality": "It Park",
+    "property_type": "Flats",
+    "bhk": "2.0",
+    "price_inr": "54439700000",
+    "listing_agent": "Krutanjali Builders",
+    "rejection_reason": "Outlier price anomaly: ₹5,443.97 Crore for 2 BHK Flat"
+  },
+  {
+    "listing_id": "MIRROR-NGP-027",
+    "locality": "Manewada",
+    "property_type": "Flats",
+    "bhk": "2.0",
+    "price_inr": "60500000000",
+    "listing_agent": "MBA Property Consultant",
+    "rejection_reason": "Outlier price anomaly: ₹6,050 Crore for 2 BHK Flat"
+  },
+  {
+    "listing_id": "MIRROR-NGP-028",
+    "locality": "Bharat Nagar",
+    "property_type": "Flats",
+    "bhk": "3.0",
+    "price_inr": "1",
+    "listing_agent": "Nitin Umap - Certified Realtor",
+    "rejection_reason": "Token placeholder price anomaly: ₹1 for 3 BHK Flat"
+  },
+  {
+    "listing_id": "MIRROR-NGP-031",
+    "locality": "Dhamna",
+    "property_type": "Residential Plots",
+    "price_inr": "21210000000",
+    "listing_agent": "Mahalaxmi Infra",
+    "rejection_reason": "Outlier price anomaly: ₹2,121 Crore for residential plot"
+  },
+  {
+    "listing_id": "MIRROR-NGP-032",
+    "locality": "Wela Harichandra",
+    "property_type": "Commercial Land",
+    "price_inr": "3",
+    "listing_agent": "Prime Properties",
+    "rejection_reason": "Token placeholder price anomaly: ₹3 for commercial land"
+  },
+  {
+    "listing_id": "MIRROR-NGP-034",
+    "locality": "Gorewada",
+    "property_type": "Residential Plots",
+    "price_inr": "6",
+    "listing_agent": "Anand Real Estate",
+    "rejection_reason": "Token placeholder price anomaly: ₹6 for residential plot"
+  },
+  {
+    "listing_id": "MIRROR-NGP-035",
+    "locality": "Bajaj Nagar",
+    "property_type": "Builder Floors",
+    "bhk": "3.0",
+    "price_inr": "1",
+    "listing_agent": "Rainbow energy system",
+    "rejection_reason": "Token placeholder price anomaly: ₹1 for 3 BHK Builder Floor"
+  },
+  {
+    "listing_id": "MIRROR-NGP-038",
+    "locality": "Rama Dam",
+    "property_type": "Farm House",
+    "price_inr": "3842200000",
+    "listing_agent": "Oxygreen Farm",
+    "rejection_reason": "Outlier price anomaly: ₹384.22 Crore for farm house"
+  },
+  {
+    "listing_id": "MIRROR-NGP-039",
+    "locality": "Nandanvan",
+    "property_type": "Flats",
+    "bhk": "1.0",
+    "price_inr": "45414000000",
+    "listing_agent": "MBA Property Consultant",
+    "rejection_reason": "Outlier price anomaly: ₹4,541.40 Crore for 1 BHK Flat"
+  },
+  {
+    "listing_id": "MIRROR-NGP-040",
+    "locality": "Gotal Panjari",
+    "property_type": "Residential Plots",
+    "price_inr": "32320000000",
+    "listing_agent": "Sai Consultant",
+    "rejection_reason": "Outlier price anomaly: ₹3,232 Crore for residential plot"
+  },
+  {
+    "listing_id": "MIRROR-NGP-043",
+    "locality": "Mihan",
+    "property_type": "Agricultural Land",
+    "price_inr": "9",
+    "listing_agent": "MBA Property Consultant",
+    "rejection_reason": "Token placeholder price anomaly: ₹9 for agricultural land"
+  },
+  {
+    "listing_id": "MIRROR-NGP-045",
+    "locality": "Jamtha",
+    "property_type": "Commercial Land",
+    "price_inr": "3",
+    "listing_agent": "Shreemaan Estets",
+    "rejection_reason": "Token placeholder price anomaly: ₹3 for commercial land"
+  },
+  {
+    "listing_id": "MIRROR-NGP-046",
+    "locality": "Beltarodi",
+    "property_type": "Flats",
+    "bhk": "3.0",
+    "price_inr": "61391000000",
+    "listing_agent": "11 Square Feet",
+    "rejection_reason": "Outlier price anomaly: ₹6,139.10 Crore for 3 BHK Flat"
+  },
+  {
+    "listing_id": "MIRROR-NGP-058",
+    "locality": "Saoner",
+    "property_type": "Factory",
+    "price_inr": "3",
+    "listing_agent": "MBA Property Consultant",
+    "rejection_reason": "Token placeholder price anomaly: ₹3 for factory"
+  },
+  {
+    "listing_id": "MIRROR-NGP-059",
+    "locality": "Manish Nagar",
+    "property_type": "Flats",
+    "bhk": "3.0",
+    "price_inr": "72450000000",
+    "listing_agent": "Nitin Umap Property",
+    "rejection_reason": "Outlier price anomaly: ₹7,245 Crore for 3 BHK Flat"
+  }
+]

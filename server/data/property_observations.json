@@ -1,0 +1,13 @@
+[
+  {
+    "observation_id": "OBS-PROP-MIRROR-2026-09-27",
+    "source": "Mirror Real Estate Snapshot",
+    "observation_date": "2026-09-27",
+    "raw_records_count": 60,
+    "validated_records_count": 36,
+    "rejected_records_count": 24,
+    "retrieved_at": "2026-09-27T00:00:00.000Z",
+    "scope": "Nagpur District (5 Zones)",
+    "storage_policy": "Snapshot snapshot preserved append-only; never overwritten."
+  }
+]
